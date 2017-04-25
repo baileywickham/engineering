@@ -4,7 +4,9 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
-
+# Rhino config files
+*.rhl
+*.3dmbak
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
